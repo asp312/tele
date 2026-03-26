@@ -1,1 +1,1 @@
-console.log('JS file')
+console.log('JS file!')
